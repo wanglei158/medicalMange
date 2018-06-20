@@ -1,6 +1,7 @@
 # medical
 
 > A Vue.js project
+>药店管理系统，包含登录、药品查询、药品购物车、结算、交易、员工账号管理等模块
 
 ## Build Setup
 
