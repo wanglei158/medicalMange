@@ -5,7 +5,7 @@
 >    >我说的
 
 
-## Build Setup
+## 项目构建
 
 ``` bash
 # install dependencies
