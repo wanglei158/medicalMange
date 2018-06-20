@@ -10,28 +10,28 @@
 src
 |-- assets
 |-- components
-  └── Aside.vue
-  └── changePwd.vue
-  └── Header.vue
-  └── orderDetail.vue
-  └── search.vue
+|  └── Aside.vue
+|  └── changePwd.vue
+|  └── Header.vue
+|  └── orderDetail.vue
+|  └── search.vue
 |-- router
-    └── index.js
+|    └── index.js
 |-- view
-    └── cashier
-        └── index.vue
-    └── countMange
-        └── index.vue
-    └── home
-        └── index.vue
-    └── jiesuan
-        └── index.vue
-    └── log
-        └── index.vue
-    └── login
-        └── index.vue
-    └──transc
-        └── index.vue
+|    └── cashier
+|    |    └── index.vue
+|    └── countMange
+|    |    └── index.vue
+|    └── home
+|    |    └── index.vue
+|    └── jiesuan
+|    |    └── index.vue
+|    └── log
+|    |    └── index.vue
+|    └── login
+|    |    └── index.vue
+|    └──transc
+|        └── index.vue
 |-- App.vue
 |-- main.js
 
